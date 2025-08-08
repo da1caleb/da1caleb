@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome to the [Caleb Development](https://discord.gg/calebdev) Github
 
-<!--
-**da1caleb/da1caleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :earth_africa: About Me
 
-Here are some ideas to get you started:
+- :round_pushpin: **Location**: Atlanta Georgia 
+- :video_game: **Experience**: Development in LUA Development & FiveM Development since 2022.
+- :handshake: **Age**: 17 years old
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I'm experienced with
+- **Languages**: LUA, HTML, CSS, JavaScript and Typescript
+- **Frameworks**: ESX , QB-CORE
+- **Specialties**: FiveM Scripting
+
+## :mailbox_closed: How to reach me
+- **Discord**: [Join My Discord Server](https://discord.gg/da1caleb)
